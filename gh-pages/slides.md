@@ -106,7 +106,7 @@
 
 --SUBSLIDE--
 
-<h2>Create a repo</h2>
+<h2>Setup CNAME</h2>
 <br>
 <ul>
   <li style="list-style-type: none;"><strong>Create CNAME file in repo</strong></li>
