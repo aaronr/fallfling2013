@@ -43,6 +43,11 @@ Huge thanks to Matt Dunbar and Monika Moskal
 <img style="max-height: 350px;border:none; box-shadow:none;" src="images/ff-logo-pointinside.png">
 <h2>Point Inside</h2>
 
+--SUBSLIDE--
+
+<img style="max-height: 350px;border:none; box-shadow:none;" src="images/ff-logo-genwest.png">
+<h2>GenWest</h2>
+
 <!------------------------------------------------------------>
 --SLIDE--
 <!-- Topic: Sponsors -->
