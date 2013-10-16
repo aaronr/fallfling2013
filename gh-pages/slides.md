@@ -9,7 +9,7 @@
   <br>
   <a href="http://reprojected.com">reprojected.com</a> / <a href="http://twitter.com/reprojected">@reprojected</a> / <a href="https://github.com/aaronr">github.com/aaronr</a>
   <br><br>
-  <a href="http://aaronr.github.io/fallfling2013/intro/">aaronr.github.io/fallfling2013/intro</a>
+  <a href="http://aaronr.github.io/fallfling2013/intro/">aaronr.github.io/fallfling2013/gh-pages</a>
 </small>
 </p>
 
